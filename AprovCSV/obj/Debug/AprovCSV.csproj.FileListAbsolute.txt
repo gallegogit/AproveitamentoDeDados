@@ -7,3 +7,9 @@ C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.csproj.GenerateResourc
 C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.exe
 C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.pdb
 C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.csprojResolveAssemblyReference.cache
+C:\Projetos\AprovCSV\AproveitamentoDeDados\AprovCSV\bin\Debug\AprovCSV.exe.config
+C:\Projetos\AprovCSV\AproveitamentoDeDados\AprovCSV\obj\Debug\AprovCSV.exe
+C:\Projetos\AprovCSV\AproveitamentoDeDados\AprovCSV\obj\Debug\AprovCSV.pdb
+C:\Projetos\AproveitamentoDeDados\AprovCSV\bin\Debug\AprovCSV.exe.config
+C:\Projetos\AproveitamentoDeDados\AprovCSV\obj\Debug\AprovCSV.exe
+C:\Projetos\AproveitamentoDeDados\AprovCSV\obj\Debug\AprovCSV.pdb
