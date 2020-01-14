@@ -1,0 +1,9 @@
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\bin\Debug\AprovCSV.exe.config
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\bin\Debug\AprovCSV.exe
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\bin\Debug\AprovCSV.pdb
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.Form1.resources
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.Properties.Resources.resources
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.csproj.GenerateResource.Cache
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.exe
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.pdb
+C:\Projetos\AprovCSV\AprovCSV\AprovCSV\obj\Debug\AprovCSV.csprojResolveAssemblyReference.cache
